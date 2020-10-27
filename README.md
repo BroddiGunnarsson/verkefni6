@@ -1,2 +1,2 @@
-# verkefni6
-verkefni6
+# verkefni
+verkefni
